@@ -28,7 +28,7 @@ To set up the project locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/username/login-register-kotlin.git
+    git clone https://github.com/umarulkhak/login-register-kotlin.git
     ```
 
 2. **Open in Android Studio**:
@@ -41,7 +41,3 @@ To set up the project locally:
 4. **Run the Application**:
     - Connect an Android device or start an emulator.
     - Click the "Run" button in Android Studio.
-
-## Contact
-
-For questions or feedback, contact [your-email@example.com](mailto:your-email@example.com).
